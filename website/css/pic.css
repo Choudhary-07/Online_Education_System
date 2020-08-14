@@ -1,0 +1,10 @@
+.banner-dott1 {
+    background: url(../images/dott.png)repeat 0px 0px;
+        background-size: auto auto;
+    background-size: 2px;
+    -webkit-background-size: 2px;
+    -moz-background-size: 2px;
+    -o-background-size: 2px;
+    -ms-background-size: 2px;
+    padding: 50px 0;
+}
